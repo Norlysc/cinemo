@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cinemo/static/css/main.3ee451db.css",
-    "main.js": "/cinemo/static/js/main.4faee171.js",
+    "main.js": "/cinemo/static/js/main.171348e7.js",
     "static/css/955.a4663b6f.chunk.css": "/cinemo/static/css/955.a4663b6f.chunk.css",
     "static/js/955.eeaa2dfc.chunk.js": "/cinemo/static/js/955.eeaa2dfc.chunk.js",
     "static/css/267.ffca0fec.chunk.css": "/cinemo/static/css/267.ffca0fec.chunk.css",
@@ -26,7 +26,7 @@
     "static/media/bg.svg": "/cinemo/static/media/bg.c3b66b8e64ca1fa5fb8f.svg",
     "index.html": "/cinemo/index.html",
     "main.3ee451db.css.map": "/cinemo/static/css/main.3ee451db.css.map",
-    "main.4faee171.js.map": "/cinemo/static/js/main.4faee171.js.map",
+    "main.171348e7.js.map": "/cinemo/static/js/main.171348e7.js.map",
     "955.a4663b6f.chunk.css.map": "/cinemo/static/css/955.a4663b6f.chunk.css.map",
     "955.eeaa2dfc.chunk.js.map": "/cinemo/static/js/955.eeaa2dfc.chunk.js.map",
     "267.ffca0fec.chunk.css.map": "/cinemo/static/css/267.ffca0fec.chunk.css.map",
@@ -47,6 +47,6 @@
   },
   "entrypoints": [
     "static/css/main.3ee451db.css",
-    "static/js/main.4faee171.js"
+    "static/js/main.171348e7.js"
   ]
 }
